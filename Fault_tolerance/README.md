@@ -37,8 +37,10 @@
 - 20_FSE_Towards Intelligent Incident Management: Why We Need It and How We Make It [[paer]](https://dl.acm.org/doi/pdf/10.1145/3368089.3417055)
 - 19_ICSE-SEIP_An Empirical Investigation of Incident Triage for Online Service Systems [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804464)
 - 18_OSDI_An Analysis of Network-Partitioning Failures in Cloud Systems [[paper]](https://www.usenix.org/system/files/osdi18-alquraan.pdf)
+- 18_FAST_Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems [[paper]](https://www.usenix.org/system/files/conference/fast18/fast18-gunawi.pdf)
 - 17_TPDS_Failure Diagnosis for Distributed Systems Using Targeted Fault Injection [[paper]](https://ieeexplore.ieee.org/document/7484300)
 - 16_SIGCOM_Taking the Blame Game out of Data Centers Operations with NetPoirot [[paper]](https://dl.acm.org/doi/10.1145/2934872.2934884)
+- 13_SoCC_Limplock: Understanding the Impact of Limpware on Scale-Out Cloud Systems [paper](https://ucare.cs.uchicago.edu/pdf/socc13-limplock.pdf)
 
 ### Fault Injection
 

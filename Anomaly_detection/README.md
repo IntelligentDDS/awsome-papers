@@ -14,6 +14,7 @@
     - [Trace](#trace-1)
     - [Log](#log-2)
     - [Metric and log](#metric-and-log)
+    - [Storage](#storage)
   - [Evaluation](#evaluation)
 
 ## Supervised anomaly detection
@@ -70,6 +71,11 @@
 ### Metric and log
 - 22_Heterogeneous Anomaly Detection for Software Systems via Attentive Multi-modal Learning [[paper]]()https://arxiv.org/abs/2207.02918
 - 21_FSE_Identifying Bad Software Changes via Multimodal Anomaly Detection for Online Service Systems [[paper]](https://dl.acm.org/doi/pdf/10.1145/3468264.3468543) [[code]](https://github.com/FSEwork/SCWarn)
+
+
+### Storage
+- 23_OSDI_Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems [[paper]](https://www.usenix.org/conference/fast23/presentation/lu) [[ppt]](https://www.usenix.org/system/files/fast23_slides_lu.pdf)
+- 19_ATC_IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services [[paper]](https://www.usenix.org/system/files/atc19-panda_0.pdf)
 
 
 ## Evaluation
